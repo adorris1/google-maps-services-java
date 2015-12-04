@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Java Client for Google Maps Services
 ====================================
 
@@ -226,3 +227,6 @@ req.setCallback(new PendingResult.Callback<GeocodingResult[]>() {
 [Places API]: https://developers.google.com/places/web-service/
 [Time Zone API]: https://developers.google.com/maps/documentation/timezone
 [Roads API]: https://developers.google.com/maps/documentation/roads
+=======
+# NDS_clean
+>>>>>>> paperBoy/master
